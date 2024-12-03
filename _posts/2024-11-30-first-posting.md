@@ -4,8 +4,31 @@ title: "첫번 째 블로그입니다!"
 categories: coding
 tag: [python, blog, jekyll]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
+#search: false
 typora-root-url: ../
 ---
+
+**[공지사항]** [지킬블로그 신규 업데이트 안내](http://mmistakes.github.io.minimal-mistakes/docs/guic-start-guide/)
+{: .notice--danger} 
+
+<div class="notice--success">
+<h4>공지사항입니다.</h4>
+<ul>
+    <li>공지사항 순서1</li>
+    <li>공지사항 순서2</li>
+    <li>공지사항 순서3</li>
+</ul>
+</div>
+[버튼입니다](https://google.com){: .btn .btn--danger}
+
+[버튼2입니다](https://www.naver.com){: .btn .btn--danger}
+
+
+{% include video id="3weq3E900Fw" provider="youtube" %}
+
 
 # 와우~
 
