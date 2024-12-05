@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Innolifes 노트"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/innolifes72.png"
   bio              : "이노라이프 샘플 블로그입니다."
   location         : "South Korea"
   email            : "innolifes72@gmail.com"
@@ -131,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/innolifes"
+    - label: "YouTube"
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/@김경훈-n5l"
 
 # Site Footer
 footer:
@@ -141,6 +144,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/innolifes"
+    - label: "YouTube"
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/@김경훈-n5l"      
 
 
 # Reading Files
